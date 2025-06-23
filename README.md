@@ -34,4 +34,4 @@ The goal is to clean and preprocess the Titanic dataset for use in machine learn
 - `requirements.txt` – List of dependencies
 
 ## ✅ Submission
-This repository was submitted as part of Internship Task 1.
+This repository was submitted as part of Elevate Labs Internship Task 1.
