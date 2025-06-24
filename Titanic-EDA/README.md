@@ -19,7 +19,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 
 ## Dataset
 - [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
-- File used: `titanic.csv`
+- File used: `Titanic-Dataset.csv`
 
 ## Visualizations
 - Histogram & boxplot for age and fare
@@ -29,8 +29,8 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 
 ## Setup Instructions
 1. Clone the repo
-2. Place `titanic.csv` in the root folder
-3. Run the Jupyter Notebook: `EDA_Titanic.ipynb`
+2. Place `Titanic-Dataset.csv` in the root folder
+3. Run the Jupyter Notebook: `EDA.ipynb`
 
 ## Insights
 - Female passengers survived more.
